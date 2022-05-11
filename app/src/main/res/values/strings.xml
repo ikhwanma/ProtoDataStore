@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProtoDataStore</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="save">Save</string>
+    <string name="_0">0</string>
+    <string name="delete">Delete</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>

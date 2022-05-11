@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "ikhwan.binar.protodatastore";
+option java_multiple_files = true;
+
+message UserPreferences {
+  // filter for showing / hiding completed tasks
+  string name = 1;
+  int32 age = 2;
+}
+
+message LoginPreferences{
+  string username = 1;
+  string password = 2;
+}
